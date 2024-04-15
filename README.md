@@ -39,5 +39,6 @@ Firmware features:
 * Passthrough UART code enables transparent access to the FPGA's UART for debug/logging/control
 
 ### Certifications
-PicUNO: 
+PicUNO Shield:
+
 Pico Ice:[OSHW US002140](https://certification.oshwa.org/us002140.html) | Certified open source hardware | oshwa.org/cert
