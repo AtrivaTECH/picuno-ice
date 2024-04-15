@@ -7,12 +7,9 @@
 | [Assembly](https://htmlpreview.github.io/?https://github.com/tinyvision-ai-inc/pico-ice/blob/main/Board/Rev3/bom/ibom.html)
 | [Discord](https://discord.gg/t2CzbAYeD2)
 
-[![Elecrow](https://media-cdn.elecrow.com/media/webp_image/logo/stores/1/ELECROW_LOGO.webp)](https://www.elecrow.com/pico-ice-rp2040-plus-lattice-ice40up5k-fpga.html)
-[![LectronZ](https://lectronz.com/static/badges/buy-it-on-lectronz-medium.png)](https://lectronz.com/stores/tinyvision-ai-store)
-[![Tindie](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/stores/tinyvision_ai/?ref=offsite_badges&utm_source=sellers_vr2045&utm_medium=badges&utm_campaign=badge_small%22%3E)
+## CUSTOM PORT OF PICO-ICE to PicUNO compatible FPGA Shield. 
 
-![](Docs/images/pico_ice_front.jpg)
-![](Docs/images/pico_ice_back.jpg)
+NOTICE: This is an fork of the original project. Multiple changes shall be made for compatibility with PicUNO. Currently being designed. Shield will have similarities to Pico-Ice. 
 
 ## PCB Design Files, Designs, Documentation
 
@@ -41,4 +38,6 @@ Firmware features:
 * FPGA clock under RP2040 control
 * Passthrough UART code enables transparent access to the FPGA's UART for debug/logging/control
 
-[OSHW US002140](https://certification.oshwa.org/us002140.html) | Certified open source hardware | oshwa.org/cert
+### Certifications
+PicUNO: 
+Pico Ice:[OSHW US002140](https://certification.oshwa.org/us002140.html) | Certified open source hardware | oshwa.org/cert
