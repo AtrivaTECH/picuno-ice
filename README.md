@@ -1,4 +1,4 @@
-# pico-ice
+# picuno-ice
 
 ## CUSTOM PORT OF PICO-ICE to PicUNO compatible FPGA Shield. 
 
