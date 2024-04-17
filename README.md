@@ -4,6 +4,11 @@
 
 NOTICE: This is an fork of the original project. Multiple changes shall be made for compatibility with PicUNO. Currently being designed. Shield will have similarities to Pico-Ice. 
 
+![pico-ice](https://github.com/atulravi/picuno-ice/assets/70395057/55b64239-2470-4919-b14a-7ed3d732f636)
+<br>
+<small>PicUNO iCE FPGA shield Render</small>
+
+
 ## PCB Design Files, Designs, Documentation
 
 The pico-ice is a small, low cost board with the Raspberry Pi Pico processor (RP2040) and a Lattice Semiconductor iCE40UP5K FPGA. The board features independent flash for the FPGA and RP2040, low power SSRAM, a couple of pushbuttons and a 3 color LED with _all_ FPGA and RP2040 pins brought out to easy to use 0.1" header pins (arranged as PMOD's) for fast prototyping.
