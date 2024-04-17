@@ -1,12 +1,5 @@
 # pico-ice
 
-[Doc](http://pico-ice.tinyvision.ai/)
-| [Hardware](https://github.com/tinyvision-ai-inc/pico-ice)
-| [SDK](https://github.com/tinyvision-ai-inc/pico-ice-sdk)
-| [Schematic](https://raw.githubusercontent.com/tinyvision-ai-inc/pico-ice/main/Board/Rev3/pico-ice.pdf)
-| [Assembly](https://htmlpreview.github.io/?https://github.com/tinyvision-ai-inc/pico-ice/blob/main/Board/Rev3/bom/ibom.html)
-| [Discord](https://discord.gg/t2CzbAYeD2)
-
 ## CUSTOM PORT OF PICO-ICE to PicUNO compatible FPGA Shield. 
 
 NOTICE: This is an fork of the original project. Multiple changes shall be made for compatibility with PicUNO. Currently being designed. Shield will have similarities to Pico-Ice. 
